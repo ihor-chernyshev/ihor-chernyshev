@@ -1,4 +1,4 @@
-(https://github.com/ihor-chernyshev/ihor-chernyshev/blob/main/github-header-image.png)
+!(https://github.com/ihor-chernyshev/ihor-chernyshev/blob/main/github-header-image.png)
 <h1 align="center">Hi there 👋</h1>
 <h3 align="center">I'm Ihor Chernyshev</h3>
 
