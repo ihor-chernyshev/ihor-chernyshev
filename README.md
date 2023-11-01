@@ -17,5 +17,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ihor-chernyshev&show_icons=true&locale=en&layout=compact" alt="ihor-chernyshev" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ihor-chernyshev&show_icons=true&locale=en" alt="ihor-chernyshev" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ihor-chernyshev&" alt="ihor-chernyshev" /></p>
+hernyshev&" alt="ihor-chernyshev" /></p>
