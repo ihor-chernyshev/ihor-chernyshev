@@ -1,4 +1,7 @@
-<h1 align="center">Hi there 👋</h1>(https://github.com/ihor-chernyshev/ihor-chernyshev/blob/main/github-header-image.png)
+<div align="center">
+  <img height="200" src="https://github.com/ihor-chernyshev/ihor-chernyshev/blob/main/github-header-image.png"  />
+</div>
+<h1 align="center">Hi there 👋</h1>
 <h3 align="center">I'm Ihor Chernyshev</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ihor-chernyshev&label=Profile%20views&color=0e75b6&style=flat" alt="ihor-chernyshev" /> </p>
