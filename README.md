@@ -1,5 +1,5 @@
 <div align="center">
-   <img src="https://github.com/ihor-chernyshev/ihor-chernyshev/blob/main/computer-system-coding.gif"  />
+   <img width="1000", height="250" src="https://github.com/ihor-chernyshev/ihor-chernyshev/blob/main/computer-system-coding.gif"  />
  </div>
  
 <h1 align="center">Hi there👋 I'm Ihor Chernyshev</h1>
