@@ -1,3 +1,7 @@
+<div align="center">
+   <img src="https://github.com/ihor-chernyshev/ihor-chernyshev/blob/main/computer-system-coding.gif"  />
+ </div>
+ 
 <h1 align="center">Hi there👋 I'm Ihor Chernyshev</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ihor-chernyshev&label=Profile%20views&color=0e75b6&style=flat" alt="ihor-chernyshev" /> </p>
 
